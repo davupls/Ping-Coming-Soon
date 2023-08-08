@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/davupls/Ping-Coming-Soon)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Ping - Coming Soon](https://ping-coming-soon-alpha-six.vercel.app/)
 
 ## My process
 
