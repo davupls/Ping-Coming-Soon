@@ -30,6 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/davupls/Ping-Coming-Soon/assets/47851457/4daf80b1-3e27-4670-817d-b1479ecbbe6f)
 
 
 
@@ -56,11 +57,6 @@ Users should be able to:
 ```html
 <form action="#" id="form" novalidate> 
   <!-- Learn that default browser alert message can be disabled using novalidate -->
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
 ```
 ```js
 else if (form.reportValidity()) {
